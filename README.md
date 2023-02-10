@@ -1,4 +1,6 @@
 
+![Design and Development]((https://github.com/udaykashyap/udaykashyap/blob/main/Poster.jpg))
+
 # Uday Kumar Kashyap
 I'm Uday from India, and I am a full stack web developer. I really enjoy learning languages and frameworks like JavaScript and React, as well as work in WordPress. I also enjoy ui, ux, and design in general.
 
