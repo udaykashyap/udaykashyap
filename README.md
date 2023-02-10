@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Uday Kumar Kashyap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+# Uday Kumar Kashyap
+I'm Uday from India, and I am a full stack web developer. I really enjoy learning languages and frameworks like JavaScript and React, as well as work in WordPress. I also enjoy ui, ux, and design in general.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykashyap&label=Profile%20views&color=0e75b6&style=flat" alt="udaykashyap" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **udaykashyap.hjp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OQIAxVifyP4S7JyfuknbB5UpDIB-t3yq/view?usp=share_link](https://drive.google.com/file/d/1OQIAxVifyP4S7JyfuknbB5UpDIB-t3yq/view?usp=share_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OQIAxVifyP4S7JyfuknbB5UpDIB-t3yq/view?usp=share_link)
 
 - ⚡ Fun fact **In real life bugs 🐞 looks very pretty.**
 
@@ -36,5 +37,6 @@
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
+  </div>
   
   [Uday Kumar Kashyap](https://github.com/udaykashyap)
