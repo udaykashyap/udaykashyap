@@ -26,7 +26,7 @@ I'm Uday from India, and I am a full stack web developer. I really enjoy learnin
 <p align="left">
 <a href="https://linkedin.com/in/udaykashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udaykashyap" height="30" width="40" /></a>
 <a href="https://codesandbox.com/udaykashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="udaykashyap" height="30" width="40" /></a>
-<a href="https://instagram.com/ran.veer_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ran.veer_kashyap" height="30" width="40" /></a>
+
 <a href="https://medium.com/@udaykashyap.hjp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@udaykashyap.hjp" height="30" width="40" /></a>
 </p>
 
