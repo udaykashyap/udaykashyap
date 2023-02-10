@@ -10,7 +10,7 @@ I'm Uday from India, and I am a full stack web developer. I really enjoy learnin
 
 - 🌱 I’m currently learning **React-Redux**
 
-- 👨‍💻 All of my projects are available at [Uday Kashyap](https://github.com/udaykashyap)
+- 👨‍💻 All of my projects are available at [Uday Kashyap](https://udaykashyap.github.io/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
