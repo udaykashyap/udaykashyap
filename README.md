@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Redux**
 
-- 👨‍💻 All of my projects are available at [udaykashyap.github.io](udaykashyap.github.io)
+- 👨‍💻 All of my projects are available at [Uday Kashyap](https://github.com/udaykashyap)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
