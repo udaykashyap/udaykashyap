@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **ganesh12345bahire@gmail.com**
+- 📫 How to reach me **udaykashyap.hjp@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -17,13 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ganesh-bahire-3a04871b1/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/udaykashyap/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="sahil-shekh-8a0470230" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://instagram.com/ganesh__bahire_" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="shekhsahil055"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-   
+ 
 </p>
 <br/>
 
@@ -42,4 +39,4 @@
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
   
-  [GaneshBahire](https://github.com/udaykashyap)
+  [Uday Kumar Kashyap](https://github.com/udaykashyap)
