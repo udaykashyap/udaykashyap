@@ -1,4 +1,4 @@
-<div align="center">
+
 # Uday Kumar Kashyap
 I'm Uday from India, and I am a full stack web developer. I really enjoy learning languages and frameworks like JavaScript and React, as well as work in WordPress. I also enjoy ui, ux, and design in general.
 
@@ -37,6 +37,6 @@ I'm Uday from India, and I am a full stack web developer. I really enjoy learnin
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
-  </div>
+
   
   [Uday Kumar Kashyap](https://github.com/udaykashyap)
