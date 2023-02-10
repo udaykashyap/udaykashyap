@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Bahire</h1>
+<h1 align="center">Hi 👋, I'm Uday Kumar Kashyap</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
 <p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
